@@ -48,11 +48,10 @@
           background-color: $lightgrey;
           width: 120px;
           height: 100px;
+          overflow: hidden;
 
           img {
-            width: 100px;
-            height: 100px;
-            overflow: hidden;
+            width: 100%;
           }
         }
 
